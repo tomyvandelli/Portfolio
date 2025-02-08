@@ -9,3 +9,55 @@
 </a> <a href="https://www.bonitasoft.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn3.bonitasoft.com/sites/default/files/Bonitasoft_Logo_Bulle.svg" alt="Bonitasoft" width="40" height="40"/>
 </a> </p>
+
+<h3 align="left">Proyectos en los que he trabajado:</h3>
+
+<ol style="list-style-type: none;">
+ <li>
+<a href="https://www.justfit.uy/">🍫️️ JustFit</a>
+    <span style="display:block">Una plataforma de e-commerce automatizada que gestiona ventas, productos, usuarios, pagos y pedidos a través de múltiples métodos. Permite a los clientes seleccionar fechas y horarios de entrega, aplicar cupones de descuento y cuenta con bloqueo de fechas y diversas opciones de envío. Integra la API de Google Maps para la gestión de zonas de entrega y utiliza WebSockets para notificaciones en tiempo real, manteniendo informados a los usuarios durante todo el proceso. Además, cuenta con un backoffice donde los administradores pueden controlar y gestionar todos los aspectos de la plataforma.</span>
+  </li>
+  <br>
+  
+  <li>
+  <a href="https://mdelhombre.web.app/inicio">🖼️️ Museo Virtual</a>
+    <span style="display:block">Una plataforma interactiva para museos que incluye un foro comunitario, gestión de inventario y un sistema de reservas para evitar la sobreocupación. Cuenta con un recorrido virtual en 360°, permitiendo a los visitantes explorar el museo e interactuar con las obras de arte.</span>
+  </li><br>
+
+  <li>
+    <a href="https://duxis.tech/">🏠️️ Duxis HomePage</a>
+    <span style="display:block">Un sitio web corporativo que presenta la empresa, sus servicios y su metodología de trabajo. Proporciona información sobre la compañía y formularios de contacto para facilitar la comunicación con los clientes.</span>
+  </li>
+  <br>
+  
+  <li>
+    <a href="https://lacucha.com.uy/home">🐕️️ La Cucha Ecommerce</a>
+      <span style="display:block">Una tienda en línea para un negocio veterinario que gestiona productos, stock, clientes, categorías, pedidos, carrito de compras y usuarios. Incluye una sección de ayuda donde los clientes pueden realizar consultas o presentar reclamos. Además, cuenta con un backoffice donde los administradores pueden gestionar toda la información y recibir notificaciones en tiempo real.</span>
+  </li><br>
+  
+  <li>
+    <a href="">🚛 GISMA</a>
+      <span style="display:block">Un sistema de gestión de transporte integrado que administra conductores, camiones, remolques, combustible, kilometraje, rutas y desvíos. Permite el rastreo de vehículos en tiempo real y la gestión de viajes, proporcionando información precisa sobre el estado de cada recorrido a través de un sistema GPS integrado.<br> BonitaSoft BPM se integró mediante su API para gestionar estas entidades de una manera más intuitiva, optimizando la automatización de flujos de trabajo y la gestión de procesos.</span>
+  </li>
+</ol>
+
+<h3 align="left">Mi experiencia laboral previa:</h3>
+
+<ol style="list-style-type: none;">
+ <li>
+    <h3>SAMAN</h3>
+    <span style="display:block">Trabajé durante 6 temporadas de cosecha. Fui "hornero", responsable del secado de arroz utilizando un horno industrial. También trabajé como "zarandero", guiando el arroz limpio dentro de la empresa. Posteriormente, fui "balancero", encargado de dirigir la entrada de camiones según el tipo de grano y el orden de prioridad, realizando pesajes externos e internos y pruebas de humedad en el laboratorio para cada muestra de camión.</span>
+  </li>
+  <li>
+    <h3>DUXIS</h3>
+    <span style="display:block">Desarrollador Full Stack. Mantuve el sitio web oficial de la empresa y trabajé en diversas tareas en distintos proyectos, tanto en el front-end como en el back-end. Una parte significativa de mi trabajo fue en el proyecto GISMA, donde integré BonitaSoft para mejorar la gestión de flujos de trabajo.</span>
+  </li>
+  <li>
+    <h3>Hotel - Dunas del Este</h3>
+    <span style="display:block">Gestioné todos los gastos internos y externos del hotel, integrando diversas herramientas externas para optimizar la administración del personal y el control de gastos. Mi tarea principal fue automatizar procesos y delegar responsabilidades de manera eficiente.</span>
+  <li>
+    <h3>Justfit ARG</h3>
+    <span style="display:block">Administré el sitio web en TiendaNube y vendí productos a clientes a través de WhatsApp, con el objetivo de evitar la pérdida de ventas y resolver de manera eficiente todos los problemas de los clientes.</span>
+  </li>
+</ol>
+
